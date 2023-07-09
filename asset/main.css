@@ -244,7 +244,7 @@ margin-top: 30px;
 color: #c6c6c6;
 }
 .second__section-right{
-    background-image: url(./images/pricing-table-02.png);
+    background-image: url(../images/pricing-table-02.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -319,7 +319,7 @@ align-items: center;
     margin: 0 20px 0 50px;
 }
 .third__section-content--right-label{
-background-image: url(./images/client-bg.png);
+background-image: url(../images/client-bg.png);
 background-size: cover;
 width: 520px;
 height: 320px;
@@ -429,7 +429,7 @@ position: absolute;
 
 }
 .footer__container{
-    background-image: url(./images/footer-bg.png);
+    background-image: url(../images/footer-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
